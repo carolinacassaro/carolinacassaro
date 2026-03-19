@@ -1,6 +1,6 @@
 ## Hi, Welcome to my page! 🎀
 
-My name is Carolina and I'm a Computer Science student at PUCPR as well as a computer entusiast.
+My name is Carolina and I'm a Computer Science student at PUCPR as well as a computer and programming enthusiast.
 
 This is a dedicated space for my academic projects, personal experiments, and coding challenges. I believe in learning by doing, so everything you see here is built from the ground up as I progress through my Computer Science degree.
 
