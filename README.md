@@ -21,7 +21,8 @@ And all of the above can be found in my repositories as I progress.
 My first love for computers started with games, so some could say I'm a gamer girl even, though my abilities would probably confirm them otherwise.
 
 Eventually I did a web informatics course integrated to high school where I could explore more about web programming, networks, database, hardware and software
-concepts.. all very exciting and beyond theory, we had many oportunities to practice.
+concepts... all very exciting and beyond theory, we had many oportunities to practice.
+
 Indeed, my capstone project was to apply these knowledge by developing a web software hosted in the aws cloud, which ou can find in my repositories:
 [Louer - Aluguel rápido](https://github.com/holzdm/louer)
 
